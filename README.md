@@ -15,3 +15,12 @@
     - Finally you can use key and run decrypt_file.py 
     - You can see key_{key}_decrypt_file.txt
 ```
+
+## Result
+
+![Alt text](./doc/result_find_key.png)
+
+![Alt text](./doc/final.png)
+
+
+

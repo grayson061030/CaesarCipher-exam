@@ -29,4 +29,4 @@ def decrypt_handler(cipher_text, key):
 
 if __name__ == '__main__':
     input_key = input('Please enter key: ')
-    decrypt_file('Encrypted_Result.txt',input_key)
+    decrypt_file('Encrypted_Result.txt', input_key)
