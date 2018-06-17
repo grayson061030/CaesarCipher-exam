@@ -3,8 +3,7 @@
 ### description
 
 ```bash
-    - Encrypted_Result.txt file is encrypted by shift cipher
-    - My goal is decrypt file. 
+    - Encrypted_Result.txt file is encrypted by shift cipher 
 ```
 
 ### how to use ?
